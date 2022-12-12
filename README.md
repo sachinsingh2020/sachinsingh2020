@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sachinsingh2020?tab=repositories](https://github.com/sachinsingh2020?tab=repositories)
 
-- 💬 Ask me about **React.js, JavaScript, DSA Problems**
+- 💬 Ask me about **React.js, MERN STACK, Node.js, JavaScript, DSA Problems**
 
 - 📫 How to reach me **sachin891singh@gmail.com**
 
